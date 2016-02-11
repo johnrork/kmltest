@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<name>Addams Junior High</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.119812,42.012604,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aldrin Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.095413,42.012955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Armstrong Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.11618,42.050392,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blackwell Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.131721,42.031094,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Campanelli Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.119911,42.019657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Churchill Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.099731,42.055222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Collins Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.069656,42.01989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dirksen Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.082993,42.021881,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dooley Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.104919,42.014366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Einstein Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.135803,42.015137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eisenhower Junior High</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.099716,42.063377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Enders-Salk Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.100601,42.033279,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fairview Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.071526,42.039795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fox Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.13401,42.009331,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Frost Junior High</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.08886,42.005341,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hale Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.111694,42.004742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hanover Highlands Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.140068,41.998722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hoover Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.118149,42.031971,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Keller Junior High</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.100876,42.041748,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lakeview Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.093971,42.038891,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lincoln Prairie School</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.090065,42.061306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Link Elementary School</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.038673,42.006298,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MacArthur Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.107224,42.05991,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mead Junior High</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.053589,42.010056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muir Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.125381,42.061066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nerge Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.068268,41.996632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stevenson Elementary</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.040161,41.998428,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rafferty Administration Center</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.065491,42.029675,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Early Learning Center</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.066505,42.028568,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
